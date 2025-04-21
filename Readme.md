@@ -43,7 +43,7 @@ This enhanced framework introduces the following features:
    Ground truth for confirmed cases is sourced from open datasets for Italy, England, France, and Spain. Processed data is included in the `data` folder.
 
 - **Graphs**  
-   Mobility data derived from Facebook Data for Good disease prevention maps. Aggregated and anonymized mobility graphs are included for reproducibility.
+   Mobility data derived from Facebook Data for Good disease prevention maps. Aggregated and anonymized mobility graphs (inlcuded by the original authors for reproducibility).
 
 - **Contextual Data**  
    Extracted from platforms like GNews, Twitter, and Reddit to provide rich insights into public sentiment and policy impacts.
